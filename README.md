@@ -1,4 +1,4 @@
-# Muthokinju - painsnts SampleSolution
+# Muthokinju - paints ampleSolution
 
 1. Branch-Level Data Integration (Data Lake)
 Set up a pipeline to collect sales, inventory, and delivery data from all branches.
